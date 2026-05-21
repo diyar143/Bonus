@@ -40,4 +40,3 @@ Times measured using `System.nanoTime()`.
 
 ## Reflection
 This project provided an essential understanding of structural memory modeling via the Adjacency List over the rigid Adjacency Matrix format. Managing programmatic `visited` tables helped prevent circular trace sequences during cyclic traversal execution paths. The core implementation challenge was handling disjointed random components which terminate paths prematurely.
-This project provided an essential understanding of structural memory modeling via the Adjacency List over the rigid Adjacency Matrix format. Managing programmatic `visited` tables helped prevent circular trace sequences during cyclic traversal execution paths. The core implementation challenge was handling disjointed random components which terminate paths prematurely.
